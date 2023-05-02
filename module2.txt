@@ -1,0 +1,10 @@
+=> How memory is managed in Python?
+Memory in Python is managed by Python private heap space. 
+
+=>What is the purpose continue statement in python?
+The continue keyword is used to end the current iteration in a for loop (or a while loop), 
+and continues to the next iteration.
+
+=>What are negative indexes and why are they used?
+Negative Indexing is used to in Python to begin slicing 
+from the end of the string
